@@ -1,6 +1,6 @@
 # Kubernetes prompt for zsh
 
-A Kubernetes zsh prompt that displays the current cluster cluster
+A Kubernetes zsh prompt that displays the current cluster 
 and the namespace.
 
 Inspired by several tools used to simplify usage of kubectl
@@ -23,7 +23,7 @@ If using this with OpenShift, the oc tool needs installed.  It can be obtained f
 
 There are several great tools that make using kubectl very enjoyable.
 
-[kubectx and kubenx](https://github.com/ahmetb/kubectx) are great for
+[kubectx and kubens](https://github.com/ahmetb/kubectx) are great for
 fast switching between clusters and namespaces.
 
 ## Prompt Structure
